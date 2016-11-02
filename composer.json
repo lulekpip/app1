@@ -1,0 +1,14 @@
+{
+  "name"  : "",
+
+  "repositories"  : [
+    {
+      "type"  : "vcs",
+      "url"   : "https://github.com/lulekpip/frame"
+    }
+  ],
+
+  "require"  : {
+    "lulekpip/empty-project"  : "frame"
+  }
+}
